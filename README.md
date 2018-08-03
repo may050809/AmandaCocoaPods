@@ -17,7 +17,7 @@ Amanda is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Amanda'
+    pod 'Amanda', :git => 'https://github.com/may050809/AmandaCocoaPods.git', :branch => 'master'
 ```
 
 ## Author
