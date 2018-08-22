@@ -22,7 +22,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Amanda Mei, amei@coupang.com
+Amanda Mei
 
 ## License
 
